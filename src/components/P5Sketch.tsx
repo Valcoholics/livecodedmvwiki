@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react"
 import p5 from "p5"
-import { mockData } from "../data/mockData.js"
+import { mockData } from "../../public/data/mockData.js"
 
 interface P5SketchProps {
   data?: any[]
