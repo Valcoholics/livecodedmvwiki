@@ -1,0 +1,46 @@
+Resource_Name,Category,Sub_Category,Location_Scope,Description,Relevance,Link,Access type
+TOPLAP,Global Community,International Networks,Worldwide,International live coding community,High | Core community for live coding practice and theory - Essential global hub,http://toplap.org,Free/Open Source
+ICLC,Global Community,Conferences/Events,International,International Conference on Live Coding,High | Core academic and artistic discourse,https://iclc.toplap.org/2025/,Conference fees
+Algorave,Global Community,Performance Networks,Worldwide,Global network of algorithmic dance music events,High | Core for performance context and culture,http://algorave.com,Free/Community
+Demoscene,Cultural Heritage,Digital Performance Lineage,Worldwide,Computer art subculture,Useful historical context for creative coding performance,https://youtu.be/J2Jz1bu2CcA?si=wxwzB980x9yenVX3,Free/Community
+LiveCodeNYC,Global Community,Upstream Organizations,NYC,Event organizing and community,Useful direct model for structure and programming - Helpful example,https://livecode.nyc/,Free/Community
+Dweller,Representation & Equity,Black Electronic Music,National/Online,Platform centering Black perspectives in electronic music,Key for representation; showcases Black live coders - Important resource,https://dwellerforever.blog,Free/Community
+Nam June Paik’s Electronic Superhighway,Cultural Heritage,DMV Heritage,Washington DC,Smithsonian installation merging tech + culture,Important DMV cultural touchstone for tech and culture - Useful context,https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478,Free/Museum
+School for Poetic Computation / SFPC,Education/Pedagogy,Artist-Run Schools,NYC,School for Poetic Computation,High | Core live coding curriculum; essential critical discourse,https://sfpc.study,Tuition/Programs
+NEW INC,Education/Pedagogy,Institutional Incubators,NYC,New Museum’s incubator,Useful structured support model for artists,http://newinc.org,Membership/Application
+Mutek,Education/Pedagogy,International Festivals,Montreal/Global,Electronic music festival with TouchDesigner workshops,Key TouchDesigner workshops; useful for visual coding,http://mutek.org,Festival/Workshops
+Gray Area,Arts Organizations,Creative Tech Institutions,San Francisco,Art + tech center with residencies,Useful institutional programming model,http://grayarea.org,Programs/Classes
+Rhizome,Arts Organizations,Digital Art Institutions,NYC,Digital art platform and institution,Useful context for digital and net art,http://rhizome.org/,Programs/Online
+Rhizome DC,Arts Organizations,Local Institutional,Washington DC,Local digital art org,Key local digital art org for DMV support - Important,https://www.rhizomedc.org/,[varies]
+Seeda School,Education/Pedagogy,Decolonial Pedagogy,DMV-founded,Black feminist worldbuilding school,"Essential local, decolonial creative tech education in DMV - Key",https://www.seedaschool.com/,Programs/Workshops
+Torrents Media / BPMplus Art & Tech Showcase,Representation & Equity,Media Platforms,National,"Amplifies Black artists, cultural exchange",Important platform addressing access and bias issues,https://www.instagram.com/torrents.media/,Media platform
+ARTECHOUSE DC,Performance Venues,Institutional Spaces,Washington DC,Immersive digital art space,Key DMV venue for installations and performances - Important,https://www.artechouse.com/,Ticketed/Rental
+Hirshhorn Soulscene,Regional Events,Institutional Spaces,Washington DC,Digital/new media museum programming,Useful institutional prestige and support for digital media,https://hirshhorn.si.edu/event/sound-scene-2025-2/hirshhorn.si.edu,Museum programs
+Dupont Underground,Regional Events,Underground Immersive,Washington DC,Arts space in repurposed underground station,Useful potential AV and live coding space in DC,http://dupontunderground.org,Venue rental
+Anacostia Arts Center,Performance Venues,Community Arts,Washington DC,"Black-box Theatre creative hub. Anacostia Arts Center supports arts, culture, and small businesses",Key community-led support for tech and arts in DC - Important,http://anacostiaartscenter.com,Venue rental/Community
+Flash / 9:30 Club,Performance Venues,Electronic Music Legacy,Washington DC,Iconic electronic/live music venues,Useful electronic music audience crossover,https://www.flashdc.com/,Ticketed/Booking
+STFU,Performance Venues,Music/Art Venue,DMV Area,Local underground venue,Key local space for experimental and live code - Important,https://stfunavyyard.com/,Venue rental/booking
+Neptune Room,Performance Venues,Music Venues,DMV Area,Local music venue,Useful potential live coding venue in DMV,https://linktr.ee/NeptuneroomDC,Venue rental/booking
+Art Sound Lounge,Performance Venues,Music Venues,DMV Area,Local community music/art venue,Useful local community music and art venue,https://artsoundlanguage.com/,Venue rental/booking
+Artomatic,Regional Events,Arts Festivals,Washington DC,Massive open arts festival,Key massive open arts festival; useful entry point for experimental shows,http://artomatic.org,Festival participation
+Baltimore City Lights Festival (Historical Archive),Regional Events,Arts Festivals,Baltimore,Regional arts festival,Useful regional performance opportunity,[link],Festival participation
+DC Motherboard,Local Community,Creative Tech Collectives,Washington DC,Collective organizing live coding shows,Essential direct collaborator and community organizer in DC - Core,https://www.instagram.com/dc.motherboard/,Free/Community
+DC Modular Society,Local Community,Hardware Communities,Washington DC,Modular synth community,Important overlap with live coding music and hardware,https://www.instagram.com/dcmodularsociety/,Free/Community
+Creatives Club DC,Local Community,Co-working,Washington DC,Weekly coworking for creatives,Key networking and gathering hub for DC creatives - Useful,https://creativesclub.art/,Free/Weekly
+Eaton Hotel,Local Community,Third Spaces,Washington DC,"Convergence point for technologists, activists, artists",Important venue and networking hub for technologists,https://www.eatonworkshop.com/en-us/washington-dc/,[varies]
+Data Visualization Society,Professional Networks,Technical Communities,DMV/National,Professional viz organization,Useful bridges data visualization and live coding aesthetics,https://www.meetup.com/Data-Visualization-DC/,Membership/Meetups
+Go-Go Music Scene,Cultural Heritage,Black Performance Heritage,Washington DC,Native DC music genre rooted in improv,Key improvisational model parallel to live coding - Important DC heritage,https://thepeoplesarchive.dclibrary.org/subjects/765,Free/Community
+D.C. Punk / DIY (Dischord Records),Cultural Heritage,DIY Lineage,Washington DC,Iconic punk/DIY community,Useful anti-institutional performance lineage,http://dischord.com,Free/Community
+Processing Foundation,Tools & Resources,Creative Coding Platforms,Global/Online,Org behind Processing language,Essential foundational tool for many coders - Core,http://processing.org,Free/Open Source
+Creative Applications Network,Tools & Resources,Media Platforms,Global/Online,Coverage of creative tech apps/tools,Useful technical resource and inspiration,http://creativeapplications.net,Free/Online
+Sonic Pi,Tools & Resources,Live Coding Environments,Global/Online,Ruby-based live coding music tool,High | Essential accessible intro to live coding music,http://sonic-pi.net,Free/Open Source
+Hydra,Tools & Resources,Live Coding Visuals,Global/Online,Browser-based live visuals environment,High | Core widely used in live coding visuals,http://hydra.ojack.xyz,Free/Open Source
+TidalCycles,Tools & Resources,Live Coding Environments,Global/Online,Haskell-based music language,High | Core foundational live coding music platform,http://tidalcycles.org,Free/Open Source
+SuperCollider,Tools & Resources,Live Coding Environments,Global/Online,Audio synthesis/programming language,High | Core tool for live coding sound,http://supercollider.github.io,Free/Open Source
+Strudel,Tools & Resources,Live Coding Environments,Global/Online,Browser-based live coding environment,"Useful accessible, lightweight live coding environment",http://strudel.cc,Free/Open Source
+p5.js,Tools & Resources,Creative Coding Platforms,Global/Online,JavaScript creative coding library,Key bridges data viz and live visuals - Useful,http://p5js.org,Free/Open Source
+TouchDesigner Community,Tools & Resources,Visual Coding Environments,Global/Online,Node-based visual programming environment,Important overlaps with DMV artists for AV performance - Key tool,https://derivative.ca/,
+Ambient Church,Performance Venues,Immersive Experiences,DMV Area,AV + architectural projection series,Useful experiential performance inspiration,https://www.ambient.church/,Ticketed/Events
+Destination Imagination,Education/Pedagogy,Youth Pipeline/STEAM,National,,Useful develops foundational creative-technical skills; potential talent pipeline,https://www.destinationimagination.org/about,
+FWB,Global Community,DAO/Web3 Creative Communities,Global/Online,,Useful model for decentralized community organizing,https://www.fwb.help/,Membership/Festival
+Creative Code Art,Global Community,Creative Coding Platforms,Global/Online,,Helpful creative coding platform and community,https://www.instagram.com/creativecodeart/,Free
